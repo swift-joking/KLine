@@ -1,0 +1,13 @@
+//
+//  PrefixHeader.pch
+//  MYKLine_Demo
+//
+//  Created by michelle on 2017/10/27.
+//  Copyright © 2017年 michelle. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "MYKLine_Global.h"
+
+#endif /* PrefixHeader_pch */
